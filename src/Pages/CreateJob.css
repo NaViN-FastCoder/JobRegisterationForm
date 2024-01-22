@@ -81,7 +81,8 @@ justify-content: center;
  
 }
 .lastlabel{
-  margin-right: 220px;
+  margin-right: 260px;
+  display: flex;
 }
 .textbox{
   gap: 10px;
@@ -99,6 +100,8 @@ justify-content: center;
   background-color: lightgray;
   border-radius: 5px;
   margin-bottom: 8px;
+  margin-left: -200px;
+  height:22px;
 }
   .formclass{
    
